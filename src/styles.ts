@@ -3,7 +3,7 @@ import { createGlobalStyle } from "styled-components";
 const cores = {
     branca: '#eee',
     preta: '#111',
-    sinza: '#333',
+    sinza: '#4F4F4F',
     verde: '#10AC84'
   }
 
@@ -15,10 +15,6 @@ const cores = {
     font-family: Roboto, sans-serif;
   }
 
-  body {
-   background-color: ${cores.verde};
-  
-   }
 `
 
 
